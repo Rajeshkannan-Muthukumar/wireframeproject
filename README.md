@@ -12,7 +12,14 @@ Write your design steps here
 Write your design steps here
 
 ## OUTPUT:
-include your output screenshots 
+## HOME PAGE 
+![H](https://user-images.githubusercontent.com/93901857/152018175-f6344798-3942-49ff-b842-4bc2e8a1c93f.png)
+## ABOUT US PAGE
+
+![A](https://user-images.githubusercontent.com/93901857/152018151-e3b30325-c57d-4d2e-9ccb-0fb408b6a0d6.png)
+## CONTACT PAGE:
+
+![C](https://user-images.githubusercontent.com/93901857/152018165-776b0432-646f-4808-ac35-fac229a454d0.png)
 
 
 ## Result:
